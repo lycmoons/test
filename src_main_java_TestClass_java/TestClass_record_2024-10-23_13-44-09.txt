@@ -1,0 +1,7 @@
+public class TestClass {
+    public void Output(){
+        System.out.println("aaa");
+        System.out.println("change");
+        System.out.println("ccc");
+    }
+}
