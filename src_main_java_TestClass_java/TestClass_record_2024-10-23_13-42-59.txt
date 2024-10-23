@@ -1,0 +1,7 @@
+public class TestClass {
+    // 输出：
+    public void Output(){
+        System.out.println("aaa");
+        System.out.println("bbb");
+    }
+}
